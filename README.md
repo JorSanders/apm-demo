@@ -1,4 +1,4 @@
-# APM Server demo setup using k8s
+# APM Server demo on K8s
 Just a simple setup to get a apm-server and a kibana dashboard. Using a single node of elasticsearch
 
 ## Prequisite
